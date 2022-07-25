@@ -156,6 +156,8 @@
 | #—#—sprint_speed | String | necessary | | sprint_speed | |
 | #—#—bloodline | String | necessary | | bloodline | |
 | #—#—horse_id | number | necessary | |  | |
+| #—#—user_id | number | necessary | |  | |
+| #—#—wallet_addr | number | necessary | |  | |
 | #—#—horse_name | String | necessary | | horse name | |
 | #—#—img_url | String | necessary | | horse img | |
 | #—#—gate | number | necessary | | gate | |
