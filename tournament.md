@@ -141,6 +141,7 @@
 | #—distance | number | necessary | | distance 1200 | |
 | #—prize_pool | string | necessary | | prize pool | |
 | #—race_id | number | necessary | | race id | |
+| #—status | number | necessary | | 1 no start; 2 race run; 3 race end | |
 | #—race_name | string | necessary | | race name | |
 | #—race_url | string | necessary | | race 3D url| |
 | #—racecourse | string | necessary | | racecourse | |
