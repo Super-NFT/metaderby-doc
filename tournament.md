@@ -102,6 +102,7 @@
 | #—#—horse_name | String | necessary | | horse name | |
 | #—#—horse_id | number | necessary | | horse id | |
 | #—#—img_url | String | necessary | | horse img | |
+| #—#—gate | number | necessary | | gate | |
 
 
 ## Race Results
