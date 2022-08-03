@@ -2,8 +2,8 @@
 metaderby document
 
 ##### Project introduction
-* Open platform API domain name
+* Open platform API domain
 > https://api.derbygames.link
-* The domain name of the Metaderby project
+* Metaderby domain
 > https://beta.metaderby.com
 
