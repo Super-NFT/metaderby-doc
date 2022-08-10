@@ -1,10 +1,7 @@
-
-# tournament 
-
-
-
+# tournament
 
 ## Room List
+
 ### Basic Information
 
 **Path：** /open_tournament/room_list
@@ -48,8 +45,8 @@
 | #—type | number | necessary | | 2: tournament | |
 | #—updated_at | String | necessary | | updated time | |
 
-
 ## Room Information
+
 ### Basic Information
 
 **Path：** /open_tournament/room
@@ -102,10 +99,11 @@
 | #—#—horse_name | String | necessary | | horse name | |
 | #—#—horse_id | number | necessary | | horse id | |
 | #—#—img_url | String | necessary | | horse img | |
+| #—#—url | String | necessary | | horse detail url | |
 | #—#—gate | number | necessary | | gate | |
 
-
 ## Race Results
+
 ### Basic Information
 
 **Path：** /open_tournament/race
@@ -163,5 +161,6 @@
 | #—#—horse_name | String | necessary | | horse name | |
 | #—#—img_url | String | necessary | | horse img | |
 | #—#—gate | number | necessary | | gate | |
+| #—#—url | number | necessary | | horse detail url | |
 | #—#—rank | number | necessary | | rank | |
 | #—#—time_elapsed | number | necessary | | time elapsed | |
